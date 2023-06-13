@@ -15,7 +15,8 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/VasylMolnar/parcel-deploy-tutorial.git"
-  },"bugs": {
+  },
+  "bugs": {
     "url": "https://github.com/VasylMolnar/parcel-deploy-tutorial/issues"
   },
   "homepage": "https://VasylMolnar.github.io/parcel-deploy-tutorial",
